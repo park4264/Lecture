@@ -1,21 +1,3 @@
----
-title: "로지스틱 회귀분석 실습"
-author: "박태준"
-date: '2022 6 30'
-output: 
-  html_document:
-    toc: true
-    toc_depth: 3
-    theme: united
-    number_sections: true
-    toc_float: true
-      #collapsed: false
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # 이항분류 실습
 
 ## 독일 신용 데이터
