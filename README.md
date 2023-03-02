@@ -1,4 +1,4 @@
-# Lecture
+# 외부 기업 강의
 
 
 
@@ -14,7 +14,8 @@
 	
 	
 	
-## 
+## 목록
+
 - Logistic Regression실습 [[R Code]](https://github.com/park4264/Lecture/blob/main/Logistic%20regression%EC%8B%A4%EC%8A%B5.md)
 	
 - 검정 및 회귀분석 실습 [[Python Code]](https://github.com/park4264/Lecture/blob/main/1.%20%EA%B2%80%EC%A0%95%20%EB%B0%8F%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%8A%B5%20(Code).ipynb) [[Pdf]](https://github.com/park4264/Lecture/blob/main/1.%20%EA%B2%80%EC%A0%95%20%EB%B0%8F%20%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%20%EC%8B%A4%EC%8A%B5.pdf)
